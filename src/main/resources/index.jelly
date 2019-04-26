@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+  This plugin provides an additional Branch Build Strategy to trigger multibranch jobs based on path inclusion.
+</div>
